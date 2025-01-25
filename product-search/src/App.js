@@ -46,7 +46,7 @@ function App() {
 
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial' }}>
-      <h1>Voice to Search Keyword Generator</h1>
+      <h1>Whizzy!!!</h1>
       <button onClick={handleStartListening} style={{ padding: '10px 20px', fontSize: '16px' }}>
         Start Speaking
       </button>
