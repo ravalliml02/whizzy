@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/whizzy/static/css/main.e6c13ad2.css",
+    "main.js": "/whizzy/static/js/main.e6dd75ba.js",
+    "index.html": "/whizzy/index.html",
+    "main.e6c13ad2.css.map": "/whizzy/static/css/main.e6c13ad2.css.map",
+    "main.e6dd75ba.js.map": "/whizzy/static/js/main.e6dd75ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e6dd75ba.js"
+  ]
+}
